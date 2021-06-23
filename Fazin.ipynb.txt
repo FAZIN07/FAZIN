@@ -1,0 +1,8 @@
+Enter the city name: KOLLAM
+-------------------------------------------------------------
+Weather Stats for - KOLLAM  || 23 Jun 2021 | 07:49:27 AM
+-------------------------------------------------------------
+Current temperature is: 29.93 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 75 %
+Current wind speed    : 5.79 kmph
